@@ -1,5 +1,7 @@
 # Data Steward/Scientist
 
+#### [Contact Me](CONTACT.md)
+
 #### Education
 * B.S. in Data Science - Bellevue University (active)
 * B.S. in History - University of Nebraska at Omaha
