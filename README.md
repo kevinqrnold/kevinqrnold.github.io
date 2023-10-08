@@ -1,13 +1,18 @@
-# Data Scientist
+# Data Steward/Scientist
 
-#### About me
-I am a current student at Bellevue University working towards my B.S. in Data Science
+#### Education
+* B.S. in Data Science - Bellevue University (active)
+* B.S. in History - University of Nebraska at Omaha
 
-#### Contact me
-
-Email: kevinqrnold@gmail.com  
-Twitter: [@kevinqrnold](https://twitter.com/kevinqrnold)  
-Instagram: [@kevinqrnold](https://www.instagram.com/kevinqrnold/)  
+#### Work Experience
+##### Enterprise Data Steward @ Farm Credit Services of America
+* coming soon...
+##### Product Owner @ Farm Credit Services of America
+* coming soon...
+##### Product Analyst @ Farm Credit Services of America
+* coming soon...
+##### Business Systems Analyst @ Pacific Life Insurance Company
+* coming soon...
 
 #### Projects
 COVID-19 Trend Analysis
